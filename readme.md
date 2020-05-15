@@ -19,7 +19,7 @@ After the actual git pull/merge, it will zip the xlsx (should work with other fo
 This is perfomed by copiyng the files "pre-merge", "pre-commit-zipped-xml", "post-merge" and "post-merge-zipped-xml.py"
 
 
-Credits
+## Credits
 
 Those Scripts were created in the context of the Sysref project funded by the Stanley Thomas Johnson Fundation https://www.johnsonstiftung.ch/ to keep a version control on XLSForms used to make CDSS (Computerized decision support systems)
 
